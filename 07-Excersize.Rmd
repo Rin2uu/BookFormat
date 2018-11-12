@@ -1,0 +1,6 @@
+# Excersize
+
+```{r} 
+plot(airquality$Temp, airquality$Ozone,  
+        main="Airquality: Ozone by Temperature") 
+```
